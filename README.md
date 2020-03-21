@@ -10,9 +10,11 @@ There is a zoom call every weekday, and a summary email every weeknight.
 
 ### Shared source code
 
-All our source code is on GitHub within the [ncov-ic](https://github.com/ncov-ic) organisation.  If you are not a member of this organisation, please contact Rich, Natsuko, Katy or Amy.  You're not a member if you can't read the [ncov-outputs](https://github.com/ncov-ic/ncov-outputs) repo.
+All our source code is on GitHub within the [ncov-ic](https://github.com/ncov-ic) organisation.  If you are not a member of this organisation, please contact Rich, Natsuko, Katy or Amy **and include your github username**.  You're not a member if you can't read the [ncov-outputs](https://github.com/ncov-ic/ncov-outputs) repo.
 
-In addition, you must also be a member of the [mrc-ide](https://github.com/mrc-ide/) organisation.  If you're not sure ask Rich or Wes.
+If you do not know your github username, click the little icon on the top right of the [github landing page](https://github.com).
+
+In addition, you must also be a member of the [mrc-ide](https://github.com/mrc-ide/) organisation.  If you're not sure ask Rich or Wes, again including your github username.
 
 **Please do not use private repositories on your personal github accounts**
 
