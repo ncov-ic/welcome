@@ -5,8 +5,23 @@
 Please make sure that you have access to the ncov team on Microsoft Teams.  If not, please email Rich, Amy, Katy and/or Natsuko to be added.  Your experience with Teams will be better if you download the standalone-application, which is available on all platforms.
 
 There is an email list nCoV-2019 - you will know if you are on it.  If not please email Katy, Natsuko and/or Amy to be added.
+Please treat _everything_ shared via the mailing list as confidential.
 
 There is a zoom call every weekday, and a summary email every weeknight.
+For the zoom call, if you have any updates you would like to raise, please post it to the Teams channel #daily_updates.
+
+### OneDrive
+We are now working solely on OneDrive. Once you have accepted the Teams invite, this gives you automatic access to the 2019-nCoV onedrive folder. _Please treat everything on this as highly confidential_.
+
+#### Access OneDrive
+1) Accept the Teams email invite.
+2) Go to: https://imperiallondon.sharepoint.com/sites/ncov
+3) Make sure the "Following" star in the top right is selected.
+4) Click on the waffle (top left by the Imperial logo) and select OneDrive
+5) On the right hand side there is a "shared libraries" section. Select `ncov`.
+6) Click on `2019-nCoV` folder.
+7) Click "Sync".
+8) This should prompt you to open OneDrive (recommend to download the desktop app) this will then sync this file to your computer in the same way as Dropbox does.
 
 ### Shared source code
 
